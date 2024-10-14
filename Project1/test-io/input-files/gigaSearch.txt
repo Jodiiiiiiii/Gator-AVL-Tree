@@ -1,0 +1,38 @@
+37
+insert "A" 00000020
+insert "B" 00000010
+insert "C" 00000030
+insert "C" 00000005
+insert "D" 00000015
+insert "D" 00000025
+insert "D" 00000040
+insert "G" 00000004
+insert "H" 00000006
+insert "I" 00000014
+insert "J" 00000016
+insert "K" 00000024
+insert "L" 00000026
+insert "M" 00000039
+insert "A" 00000041
+search 00000020
+search 00000014
+search 00000026
+search 0000002
+search 000000200
+search word
+search 00000039A
+search 00000042
+search "00000020"
+search "A0"
+search "B"
+printLevelCount
+search "A"
+printLevelCount
+search "D"
+printLevelCount
+search "K"
+search "E"
+search "F"
+printInorder
+printPreorder
+printPostorder

@@ -1,0 +1,40 @@
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+successful
+A
+I
+L
+unsuccessful
+unsuccessful
+unsuccessful
+unsuccessful
+unsuccessful
+unsuccessful
+unsuccessful
+00000010
+4
+00000020
+00000041
+4
+00000015
+00000025
+00000040
+4
+00000024
+unsuccessful
+unsuccessful
+G, C, H, B, I, D, J, A, K, D, L, C, M, D, A
+A, B, C, G, H, D, I, J, C, D, K, L, D, M, A
+G, H, C, I, J, D, B, K, L, D, M, A, D, C, A

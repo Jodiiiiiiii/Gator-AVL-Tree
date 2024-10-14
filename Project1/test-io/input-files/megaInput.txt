@@ -1,0 +1,177 @@
+176
+insert "A" 00012000
+insert "B" 00120000
+insert "C" 01000200
+insert "D" 00010020
+insert "E" 01000002
+insert "F" 00000201
+insert "G" 00010000
+insert "H" 00102000
+insert "I" 01020100
+insert "J" 00210100
+insert "K" 01002020
+insert "L" 00220200
+insert "M" 00120110
+insert "N" 00222100
+insert "O" 22011000
+insert "P" 10020200
+insert "Q" 00100200
+insert "R" 10020000
+insert "S" 00000200
+insert "T" 20012200
+insert "U" 01000209
+insert "V" 22220000
+insert "W" 00111000
+insert "X" 12101000
+insert "Y" 00100211
+insert "Ax" 03012000
+insert "Bx" 00120300
+insert "Cx" 01030200
+insert "Dx" 03010020
+insert "Ex" 01003002
+insert "Fx" 00300201
+insert "Gx" 30010000
+insert "Hx" 00102030
+insert "Ix" 01020130
+insert "Jx" 00213100
+insert "Kx" 01302020
+insert "Lx" 30220200
+insert "Mx" 30120110
+insert "Nx" 03222100
+insert "Ox" 22311000
+insert "Px" 10320200
+insert "Qx" 00100230
+insert "Rx" 10023000
+insert "Sx" 00300200
+insert "Tx" 23012200
+insert "Ux" 01003200
+insert "Vx" 22220030
+insert "Wx" 00111300
+insert "Xx" 12131000
+insert "Yx" 30100211
+insert "Axx" 03012040
+insert "Bxx" 00124300
+insert "Cxx" 41030200
+insert "Dxx" 03410020
+insert "Exx" 01043002
+insert "Fxx" 00340201
+insert "Gxx" 30010440
+insert "Hxx" 00102034
+insert "Ixx" 01024130
+insert "Jxx" 04213100
+insert "Kxx" 01302420
+insert "Lxx" 30224200
+insert "Mxx" 30124110
+insert "Nxx" 43222100
+insert "Oxx" 22311040
+insert "Pxx" 10320204
+insert "Qxx" 00140230
+insert "Rxx" 10423000
+insert "Sxx" 00304200
+insert "Txx" 23412200
+insert "Uxx" 01043200
+insert "Vxx" 22240030
+insert "Wxx" 04111300
+insert "Xxx" 12131040
+insert "Yxx" 30104211
+insert "Axxx" 03512040
+insert "Bxxx" 50124300
+insert "Cxxx" 41530200
+insert "Dxxx" 03415020
+insert "Exxx" 51043002
+insert "Fxxx" 50340201
+insert "Gxxx" 30019440
+insert "Hxxx" 05102034
+insert "Ixxx" 01524130
+insert "Jxxx" 54213100
+insert "Kxxx" 01352420
+insert "Lxxx" 35224200
+insert "Mxxx" 35124110
+insert "Nxxx" 43222150
+insert "Oxxx" 22311045
+insert "Pxxx" 10320254
+insert "Qxxx" 05140230
+insert "Rxxx" 15423000
+insert "Sxxx" 00304250
+insert "Txxx" 23412205
+insert "Uxxx" 01043250
+insert "Vxxx" 22245030
+insert "Wxxx" 54111300
+insert "Xxxx" 12131540
+insert "Yxxx" 35104211
+insert "Axxxx" 03512640
+insert "Bxxxx" 56124300
+insert "Cxxxx" 41536200
+insert "Dxxxx" 03415026
+insert "Exxxx" 51043602
+insert "Fxxxx" 50340261
+insert "Gxxxx" 30016440
+insert "Hxxxx" 65102034
+insert "Ixxxx" 01524136
+insert "Jxxxx" 54213160
+insert "Kxxxx" 01352426
+insert "Lxxxx" 35224260
+insert "Mxxxx" 35124116
+insert "Nxxxx" 43222156
+insert "Oxxxx" 22311645
+insert "Pxxxx" 10326254
+insert "Qxxxx" 05146230
+insert "Rxxxx" 15423060
+insert "Sxxxx" 00304256
+insert "Txxxx" 23412265
+insert "Uxxxx" 01643250
+insert "Vxxxx" 22245630
+insert "Wxxxx" 54111360
+insert "Xxxxx" 12131546
+insert "Yxxxx" 35164211
+insert "Axxxxx" 73512640
+insert "Bxxxxx" 56124370
+insert "Cxxxxx" 41536207
+insert "Dxxxxx" 03415726
+insert "Exxxxx" 51043672
+insert "Fxxxxx" 50347261
+insert "Gxxxxx" 30016447
+insert "Hxxxxx" 65102734
+insert "Ixxxxx" 71524136
+insert "Jxxxxx" 54213167
+insert "Kxxxxx" 71352426
+insert "Lxxxxx" 35224267
+insert "Mxxxxx" 35724116
+insert "Nxxxxx" 43272156
+insert "Oxxxxx" 27311645
+insert "Pxxxxx" 17326254
+insert "Qxxxxx" 75146230
+insert "Rxxxxx" 15423760
+insert "Sxxxxx" 00374256
+insert "Txxxxx" 23492265
+insert "Uxxxxx" 71643250
+insert "Vxxxxx" 22745630
+insert "Wxxxxx" 54171360
+insert "Xxxxxx" 12731546
+insert "Yxxxxx" 35164271
+printInorder
+printPreorder
+printPostorder
+printLevelCount
+search 41536207
+search 05140230
+search 35224200
+search 00120000
+search 03010020
+search 56124300
+search 75146230
+search 54171360
+search 03415020
+search 00010020
+search 54111360
+search 01000200
+search "A"
+search "T"
+search "Kx"
+search "Yxx"
+search "Exx"
+search "Qxxx"
+search "Xxxx"
+search "Pxxxx"
+search "Lxxxxx"
+search "Mxxxxx"

@@ -1,0 +1,61 @@
+60
+insert "Bob Bobbington" 12345678
+insert "Bob Bobbington" 22222222
+insert "Bob" 11111111
+insert "Bob Bobbington Two" 12345678
+insert "Sir poopy butt" 1234567
+insert "Senior poopier butt" 123456789
+insert "Negative" -1234567
+insert Steve 99999999
+insert "Car0l" 88888888
+insert "Andrew!" 77777777
+insert ""Bowser"" 66666666
+insert ""BowserJr" 66666666
+insert "Larry"" 66666666
+insert "28475837" 66666666
+insert "Ham and cheese" anumberhehe
+insert "eggs and waffles" 87456ers
+insert "n0name" 7384930O
+insert "69696969" 69696969
+remove 1234567
+remove 123456789
+remove 12121212
+remove 1234567a
+remove abcdefgh
+remove akjsdhfkjsdhgkjdfBRUH
+remove a12345678
+remove a1234567
+remove -1234567
+removeInorder -1
+removeInorder 69
+removeInorder 2147483647
+removeInorder 2a
+removeInorder thisIsANumberHEHEHEHEHEHEHEHHE
+search 1234567
+search 123456789
+search -1234567
+search a1234567
+search 1234567a
+search anumberhehe
+search Bob Bobbington
+search "12345678"
+search "Bill Billington"
+search "Bob Bobbington"
+search 12345678
+search 23232323
+search "car0l"
+randomFunctionNoInput
+randomFunctionWithInput helloThereIAmAStoopidString
+SEARCH "heheheheheheh" 12222222
+insort "justin wuz here" 42069420
+sjdkhf jksd fhkjsd hgfjkds hfkjds hfds 
+jdh sfkjsd hfohf89 3yh489iuh 9f8h 3398 hf983
+jf98 34 jf890j r9ifj 093jf 4f
+8943598345 43 dkfsd
+12345678 insert "what am I doing at this point"
+THERE IS NO CHANCE AMAN WILL BE THIS MEAN TO US BUT WHO CARES
+OOGA BOOGA 1 2 3 4 5 6 7 8 STUFF HERE, STUFF THERE, STUFF .... everywhere input input input
+printInorder
+printPreorder
+printPostorder
+printLevelCount

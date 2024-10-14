@@ -1,0 +1,37 @@
+36
+insert "Andrew Kohler" 00000020
+insert "Justin Foster" 00000045
+insert "Sean E Regan" 00000042
+insert "Kate R" 00000070
+insert "Kim Kohler" 00000060
+insert "Garen the Squaren" 00000040
+insert "Chester the Placeholding Chest" 00000051
+insert "Indiana Jones" 00000030
+insert "Andrew Kohler" 00000055
+insert "Justin Foster" 00000075
+insert "Shadow the Hedgehog" 00000080
+insert "Sonic the Hedgehog" 00000050
+printInorder
+remove 00000060
+remove 00000030
+remove 00000051
+remove 00000020
+remove 00000055
+remove 00000055
+remove 0000055
+remove my need to sleep
+remov 00000050
+printInorder
+removeInorder 0
+removeInorder 5
+removeInorder 2
+removeInorder 20
+removeInorder -1
+removeInorder sheesh
+removInrder 1
+printInorder
+removeInorder 0
+removeInorder 0
+removeInorder 1
+removeInorder 0
+printInorder

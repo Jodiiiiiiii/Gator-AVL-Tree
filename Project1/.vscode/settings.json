@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "iosfwd": "cpp",
+        "stdexcept": "cpp",
+        "regex": "cpp",
+        "stack": "cpp",
+        "ostream": "cpp",
+        "istream": "cpp",
+        "xiosbase": "cpp",
+        "queue": "cpp",
+        "string": "cpp"
+    }
+}
